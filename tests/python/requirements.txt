@@ -1,0 +1,6 @@
+requests>=2.31
+websocket-client>=1.7
+certifi>=2024.2.2
+Appium-Python-Client>=5.0,<6
+pytest>=8
+pytest-xdist>=3.5
